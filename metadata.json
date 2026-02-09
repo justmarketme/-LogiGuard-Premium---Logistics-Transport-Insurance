@@ -1,0 +1,7 @@
+{
+  "name": "LogiGuard Premium - Logistics & Transport Insurance",
+  "description": "High-end industry-tailored insurance funnel for South African logistics and transport SMEs, featuring AI-driven risk assessment.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

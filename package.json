@@ -1,0 +1,25 @@
+{
+  "name": "logiguard-premium",
+  "version": "1.0.0",
+  "description": "Premium Logistics Insurance Funnel for SA SMEs",
+  "main": "index.tsx",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "@google/genai": "^1.40.0"
+  },
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site, no build step required'"
+  },
+  "keywords": [
+    "logistics",
+    "insurance",
+    "south-africa",
+    "ai",
+    "gemini",
+    "react"
+  ],
+  "author": "LogiGuard Engineering",
+  "license": "MIT"
+}
